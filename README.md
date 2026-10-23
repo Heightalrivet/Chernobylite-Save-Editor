@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Chernobylite-Save-Editor` · Updated: 2026-10-07
+`Chernobylite-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `chernobylite` `save-editor` `survival` `rpg` `windows`
